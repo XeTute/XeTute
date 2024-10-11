@@ -1,5 +1,5 @@
 <h1><strong>Hello, Friend.</strong></h1><br>
-<p>>We're XeTute, a company dedicated to make efficient software using C++ and some ASMx64_86.</p><br>
+<p>We're XeTute, a company dedicated to make efficient software using C++ and some ASMx64_86.</p><br>
 We're working on:<br>
 - Flare - an AI chatapp, powered by our Recurrent Neural Network, built from scratch in C++ and CUDA.<br>
 - An self-hosted database for the app above - we'll open-source that!<br>
