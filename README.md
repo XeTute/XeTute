@@ -4,7 +4,7 @@ We're working on:<br>
 - Flare - an AI chatapp, powered by our Recurrent Neural Network, built from scratch in C++ and CUDA.<br>
 - An self-hosted database for the app above - we'll open-source that!<br>
 - A HTML & CSS framework which will allow for dynamic element rendering using C++ trough server-side processing.<br>
-We're **academically focused** and use as much knowledge we have to ensure that our applications are written in an efficient manner.<br>
+We're <em>academically focused</em> and use as much knowledge we have to ensure that our applications are written in an efficient manner.<br>
 This means:<br>
 - Our Open-Source code will provide you with already well optimized libraries for your projects.<br>
 - We do not adapt trends in the coding world if do not see any performance and or security wise improvement.<br>
