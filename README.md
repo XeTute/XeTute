@@ -1,10 +1,6 @@
-<h1><strong>Hello, Friend.</strong></h1><br>
-<p>We're XeTute Technologies, a company dedicated to make efficient software using C++ and some ASMx64_86.</p><br>
-We're working on (open-source):<br>
-- ANNA(Asadullah's Neural Network Architecture):<br>
-  A neural network architecture framework for our architecture designed for roleplaying, storytelling, and other tasks where Transformers are too heavy for little quality gain.<br>
-  We're <strong>academically focused</strong> and use as much knowledge we have to ensure that our applications are written in an efficient manner.<br>
-This means:<br>
-- Our Open-Source code will provide you with already well optimized libraries for your projects.<br>
-- We do not adapt trends in the coding world if do not see any performance and or security wise improvement.<br>
-We stay commited to our goals.
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
+<h1 style="font-family: 'Orbitron';"><strong>Hello, Friend.</strong></h1>
+<em>We're XeTute Technologies, a company working on:</em>
+<em>- ANNA: Asadullah's Neural Network is a experimental network which we are researching on. The Library on our GitHub is native C++ code, which is currently able to train, inference, etc a MLP network. We'll change the MLP architecture to the ANNA one when we are in good terms with our research.</em>
+<em>- FlareAI: A simple WebApp which focuses on entertaining you by letting you direct the way a story goes, and using AI to make it as immersive as it currenty goes.</em>
+FOr outher projects, please visit <a href="https://xetute.com/">our webpage.</a>
