@@ -11,4 +11,5 @@
 ہم جو وسائل GitHub اور دیگر پلیٹ فارمز پر شائع کرتے ہیں، وہ پاکستانی اور چینی اسٹارٹ اپس، کمپنیوں، اور دیگر تنظیموں کی ترقی کے لیے وقف ہیں۔  
 ہم پاکستان اور چین کے درمیان مضبوط دوستی کی قدر کرتے ہیں اور سافٹ ویئر، ٹیکنالوجی، اور دیگر متعلقہ شعبوں میں پیشہ ورانہ تعاون کو فروغ دینے کے خواہاں ہیں۔  
 ہم آپ کی شرکت اور تعاون کے لیے منتظر ہیں!  
-![Deco](https://github-readme-stats.vercel.app/api?username=XeTute&show_icons=true&theme=radical)
+---
+![Stats](https://github-readme-stats.vercel.app/api?username=XeTute&show_icons=true&theme=radical)
