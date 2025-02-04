@@ -14,4 +14,4 @@
 ہم پاکستان اور چین کے درمیان مضبوط دوستی کی قدر کرتے ہیں اور سافٹ ویئر، ٹیکنالوجی، اور دیگر متعلقہ شعبوں میں پیشہ ورانہ تعاون کو فروغ دینے کے خواہاں ہیں۔  
 ہم آپ کی شرکت اور تعاون کے لیے منتظر ہیں!  
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=XeTute&show_icons=true&theme=radical)
+<center>![Stats](https://github-readme-stats.vercel.app/api?username=XeTute&show_icons=true&theme=radical)</center>
