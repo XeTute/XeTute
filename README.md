@@ -1,17 +1,10 @@
-# 你好，朋友 | ہیلو، دوست
+# Hello, Friend | ہیلو، دوست | 朋友你好
 
-## 🇨🇳 | MANDARIN (中文)  
+We are XeTute Technologies, a Pakistani company developing various tools, libraries, and standalone applications for areas such as High Performance Computing (HPC).  
+The resources we publish on GitHub and other platforms are aimed at supporting the development of startups, companies and other organizations in the Islamic Federal Republic of Pakistan and the People's Republic of China.  
+We value the friendly relations between China and Pakistan and hope to build professional bridges between startups and companies in both countries through collaboration in software, technology and related fields.  
+We warmly welcome your participation and support!  
 
-我们是 XeTute Technologies，一家巴基斯坦公司，致力于为高性能计算（HPC）等领域开发各种工具、库和独立应用程序。  
-我们在 GitHub 和其他平台发布的资源旨在支持巴基斯坦和中国的初创企业、公司和其他组织的发展。  
-我们珍视中巴之间的友好关系，并希望通过软件、技术及相关领域的合作，为两国的初创企业和公司之间建立专业的合作桥梁。  
-我们热忱欢迎您的参与和支持！  
-
-## 🇵🇰 | URDU (اردو)  
-
-ہم XeTute Technologies ہیں، ایک پاکستانی کمپنی جو ہائی پرفارمنس کمپیوٹنگ (HPC) اور دیگر شعبوں کے لیے مختلف ٹولز، لائبریریاں، اور خود مختار ایپلیکیشنز بنانے پر کام کر رہی ہے۔  
-ہم جو وسائل GitHub اور دیگر پلیٹ فارمز پر شائع کرتے ہیں، وہ پاکستانی اور چینی اسٹارٹ اپس، کمپنیوں، اور دیگر تنظیموں کی ترقی کے لیے وقف ہیں۔  
-ہم پاکستان اور چین کے درمیان مضبوط دوستی کی قدر کرتے ہیں اور سافٹ ویئر، ٹیکنالوجی، اور دیگر متعلقہ شعبوں میں پیشہ ورانہ تعاون کو فروغ دینے کے خواہاں ہیں۔  
-ہم آپ کی شرکت اور تعاون کے لیے منتظر ہیں!  
----
-<center><img src="https://github-readme-stats.vercel.app/api?username=XeTute&show_icons=true&theme=radical)"/></center>
+## Socials
+[HuggingFace 🤗](https://huggingface.co/XeTute) | [YouTube](https://youtube.com/@XeTuteTechnologies) | [BlueSky](https://bsky.app/profile/xetute.bsky.social)  
+Also, [visit our webpage here.](https://xetute.com/)
