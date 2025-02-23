@@ -8,6 +8,4 @@ We warmly welcome your participation and support!
 ---
 # Our Apps & Socials
 [Chat with our Assistant](https://xetute.com/) | [Support us Financially](https://ko-fi.com/XeTute) | [HuggingFace 🤗](https://huggingface.co/XeTute) | [YouTube](https://youtube.com/@XeTuteTechnologies) | [BlueSky](https://bsky.app/profile/xetute.bsky.social)  
-
 Long live the Islamic Republic of Pakistan; Glory to the Islamic Republic of Pakistan 🇵🇰  
-![The Flag of the Islamic Federal Republic of Pakistan](https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg)
