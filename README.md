@@ -1,8 +1,7 @@
 # Hello, Friend | ہیلو، دوست | 朋友你好
 
 We are XeTute Technologies, a Pakistani company developing various tools, libraries, and standalone applications for areas such as High Performance Computing (HPC).  
-The resources we publish on GitHub and other platforms are aimed at supporting the development of startups, companies and other organizations in the Islamic Federal Republic of Pakistan and the People's Republic of China.  
-We value the friendly relations between China and Pakistan and hope to build professional bridges between startups and companies in both countries through collaboration in software, technology and related fields.  
+The resources we publish on GitHub and other platforms are aimed at supporting the development of startups, companies and other organizations in mainly Asia and Africa (we're Pakistan-Based).
 We warmly welcome your participation and support!  
 
 # Our Apps & Socials
