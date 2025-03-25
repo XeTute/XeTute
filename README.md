@@ -1,10 +1,5 @@
-# Hello, Friend | ہیلو، دوست | 朋友你好
+I'm Hamzah, a 16 y.o. student of Pakistani origin. I'm interested in efficient AI/ML solutions, mainly those in C++. You might recognize me by my alias "XeTute" which I previously used online on all platforms, and still do for my webapge and production services to make them feel more professional.
+To get better at what I do, I program / script my own services which I'd use myself.  
 
-"I'm" XeTute Technologies, an Pakistani individual who goes through the alias "XeTute". I hope to contribute for making technology, especially ML-concepts and efficient computing, accessible in the African and Asian continent.  
-Still studying, might not be able to provide as much professionalism as actual companies, but I'm passionate about what I do so I should be fine.
-
----
-# Our Apps & Socials
-[Chat with our Assistant](https://xetute.com/) | [Support us Financially](https://ko-fi.com/XeTute) | [Visit our GitHub](https://github.com/XeTute)  
-
-Long live the Islamic Republic of Pakistan; Glory to the Islamic Republic of Pakistan 🇵🇰  
+## Links
+[HuggingFace](https://huggingface.co/Hamzah-Asadullah) | [Ko-Fi](https://ko-fi.com/hamzahasadullah) | [My Webpage \\ XeTute](https://xetute.com)
